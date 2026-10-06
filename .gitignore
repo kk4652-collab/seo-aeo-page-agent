@@ -1,0 +1,5 @@
+/seo-aeo-page-agent/
+.DS_Store
+.env
+.env.*
+!.env.example
