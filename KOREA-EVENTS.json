@@ -1,0 +1,2447 @@
+{
+  "schema_version": 1,
+  "checked_at": "2026-10-07",
+  "timezone": "Asia/Seoul",
+  "scope": {
+    "concerts": "KPOP LIVE MAP 예정 공연·전체 기간에서 대한민국 개최로 표시된 회차",
+    "reference_url": "https://kpoplivemap.com/ko",
+    "reference_pages_scanned": 16,
+    "reference_cards_scanned": 183,
+    "domestic_concert_sessions": 14,
+    "unique_concert_artists": 6,
+    "festivals": "2026년 개최·예정 축제 및 2026~2027년 공식 발표된 예정 축제의 대표 표본",
+    "complete_national_inventory": false,
+    "festival_editions": 19,
+    "festival_regions": 17,
+    "festival_lineup_relations": 69,
+    "festival_performed_relations": 22,
+    "festival_announced_relations": 47
+  },
+  "artists": [
+    {
+      "artist_id": "highlight",
+      "display_name": "하이라이트",
+      "source_name": "HIGHLIGHT",
+      "entity_type": "MusicGroup",
+      "source_url": "https://m.ticket.yes24.com/Notice/18389",
+      "checked_at": "2026-10-07",
+      "booking_availability": "unverified",
+      "profile_path": "/artists/highlight/",
+      "source_publisher": "YES24 · Around US Entertainment / WEEKENDLIVE"
+    },
+    {
+      "artist_id": "hyojung",
+      "display_name": "효정",
+      "source_name": "HYOJUNG",
+      "entity_type": "Person",
+      "source_url": "https://m.ticket.yes24.com/Notice/18580",
+      "checked_at": "2026-10-07",
+      "booking_availability": "unverified",
+      "profile_path": "/artists/hyojung/",
+      "source_publisher": "YES24 · 롤링홀 / DSP미디어"
+    },
+    {
+      "artist_id": "nexz",
+      "display_name": "넥스지",
+      "source_name": "NEXZ",
+      "entity_type": "MusicGroup",
+      "source_url": "https://nexz.jype.com/notice/425oavhu",
+      "checked_at": "2026-10-07",
+      "booking_availability": "unverified",
+      "profile_path": "/artists/nexz/",
+      "source_publisher": "JYP Entertainment"
+    },
+    {
+      "artist_id": "illit",
+      "display_name": "아일릿",
+      "source_name": "ILLIT",
+      "entity_type": "MusicGroup",
+      "source_url": "https://weverse.io/illit/notice/37855",
+      "checked_at": "2026-10-07",
+      "booking_availability": "unverified",
+      "profile_path": "/artists/illit/",
+      "source_publisher": "BELIFT LAB · Weverse"
+    },
+    {
+      "artist_id": "82major",
+      "display_name": "82메이저",
+      "source_name": "82MAJOR",
+      "entity_type": "MusicGroup",
+      "source_url": "https://weverse.io/82major/notice/39018",
+      "checked_at": "2026-10-07",
+      "booking_availability": "unverified",
+      "profile_path": "/artists/82major/",
+      "source_publisher": "82MAJOR 공식 · Weverse"
+    },
+    {
+      "artist_id": "tomorrow-x-together",
+      "display_name": "투모로우바이투게더",
+      "source_name": "TOMORROW X TOGETHER",
+      "entity_type": "MusicGroup",
+      "source_url": "https://weverse.io/txt/notice/39106",
+      "checked_at": "2026-10-07",
+      "booking_availability": "unverified",
+      "profile_path": "/artists/tomorrow-x-together/",
+      "source_publisher": "BIGHIT MUSIC · Weverse"
+    }
+  ],
+  "concerts": [
+    {
+      "event_id": "event-bb11f555-3869-4f2f-aaf9-c99d8b4f7bad",
+      "event_type": "concert",
+      "title": "하이라이트 서울 팬콘 — 18년차 아이돌인 내가 이세계에선 데뷔조 연습생?!",
+      "country_code": "KR",
+      "city": "서울",
+      "start_date": "2026-10-16",
+      "end_date": "2026-10-16",
+      "start_time": "19:30:00",
+      "timezone": "Asia/Seoul",
+      "venue": "장충체육관",
+      "venue_address": "서울특별시 중구 동호로 241",
+      "artist_ids": [
+        "highlight"
+      ],
+      "lineup_status": "announced",
+      "event_status": "scheduled",
+      "verification_status": "official_crosschecked",
+      "verified_fields": [
+        "artist",
+        "date",
+        "venue",
+        "start_time"
+      ],
+      "reference_url": "https://kpoplivemap.com/ko/events/event-bb11f555-3869-4f2f-aaf9-c99d8b4f7bad",
+      "official_source_url": "https://m.ticket.yes24.com/Notice/18389",
+      "checked_at": "2026-10-07",
+      "booking_availability": "unverified",
+      "verification_note": "공식 공지와 날짜·시각·공연장을 대조함. 실제 출연 완료를 뜻하지 않음.",
+      "date_text_original": "2026-10-16 · 19:30:00",
+      "date_text_original_source": "reference_site",
+      "location_evidence": "서울 · 대한민국",
+      "performance_path": "/performances/event-bb11f555-3869-4f2f-aaf9-c99d8b4f7bad/",
+      "lineup": [
+        {
+          "artist_id": "highlight",
+          "name": "HIGHLIGHT",
+          "status": "official_announced",
+          "source_url": "https://m.ticket.yes24.com/Notice/18389",
+          "checked_at": "2026-10-07",
+          "performance_date": "2026-10-16"
+        }
+      ],
+      "official_title": "2026 HIGHLIGHT FAN CON [18년차 아이돌인 내가 이세계에선 데뷔조 연습생?!]",
+      "source_publisher": "YES24 · Around US Entertainment / WEEKENDLIVE",
+      "title_source": "KPOP LIVE MAP 편집 제목",
+      "region": "서울"
+    },
+    {
+      "event_id": "event-20d63d5a-d60a-4736-b9f7-ec9496391cf1",
+      "event_type": "concert",
+      "title": "하이라이트 서울 팬콘 — 18년차 아이돌인 내가 이세계에선 데뷔조 연습생?!",
+      "country_code": "KR",
+      "city": "서울",
+      "start_date": "2026-10-17",
+      "end_date": "2026-10-17",
+      "start_time": "17:00:00",
+      "timezone": "Asia/Seoul",
+      "venue": "장충체육관",
+      "venue_address": "서울특별시 중구 동호로 241",
+      "artist_ids": [
+        "highlight"
+      ],
+      "lineup_status": "announced",
+      "event_status": "scheduled",
+      "verification_status": "official_crosschecked",
+      "verified_fields": [
+        "artist",
+        "date",
+        "venue",
+        "start_time"
+      ],
+      "reference_url": "https://kpoplivemap.com/ko/events/event-20d63d5a-d60a-4736-b9f7-ec9496391cf1",
+      "official_source_url": "https://m.ticket.yes24.com/Notice/18389",
+      "checked_at": "2026-10-07",
+      "booking_availability": "unverified",
+      "verification_note": "공식 공지와 날짜·시각·공연장을 대조함. 실제 출연 완료를 뜻하지 않음.",
+      "date_text_original": "2026-10-17 · 17:00:00",
+      "date_text_original_source": "reference_site",
+      "location_evidence": "서울 · 대한민국",
+      "performance_path": "/performances/event-20d63d5a-d60a-4736-b9f7-ec9496391cf1/",
+      "lineup": [
+        {
+          "artist_id": "highlight",
+          "name": "HIGHLIGHT",
+          "status": "official_announced",
+          "source_url": "https://m.ticket.yes24.com/Notice/18389",
+          "checked_at": "2026-10-07",
+          "performance_date": "2026-10-17"
+        }
+      ],
+      "official_title": "2026 HIGHLIGHT FAN CON [18년차 아이돌인 내가 이세계에선 데뷔조 연습생?!]",
+      "source_publisher": "YES24 · Around US Entertainment / WEEKENDLIVE",
+      "title_source": "KPOP LIVE MAP 편집 제목",
+      "region": "서울"
+    },
+    {
+      "event_id": "event-220ece70-af51-4c84-bca9-8c13b0e402cb",
+      "event_type": "concert",
+      "title": "효정 서울 솔로 공연 — Lost & Found",
+      "country_code": "KR",
+      "city": "서울",
+      "start_date": "2026-10-17",
+      "end_date": "2026-10-17",
+      "start_time": "18:00:00",
+      "timezone": "Asia/Seoul",
+      "venue": "엑스칼라",
+      "venue_address": "서울특별시 중구 남대문시장10길 2, MESA 10층",
+      "artist_ids": [
+        "hyojung"
+      ],
+      "lineup_status": "announced",
+      "event_status": "scheduled",
+      "verification_status": "official_crosschecked",
+      "verified_fields": [
+        "artist",
+        "date",
+        "venue",
+        "start_time"
+      ],
+      "reference_url": "https://kpoplivemap.com/ko/events/event-220ece70-af51-4c84-bca9-8c13b0e402cb",
+      "official_source_url": "https://m.ticket.yes24.com/Notice/18580",
+      "checked_at": "2026-10-07",
+      "booking_availability": "unverified",
+      "verification_note": "공식 공지와 날짜·시각·공연장을 대조함. 실제 출연 완료를 뜻하지 않음.",
+      "date_text_original": "2026-10-17 · 18:00:00",
+      "date_text_original_source": "reference_site",
+      "location_evidence": "서울 · 대한민국",
+      "performance_path": "/performances/event-220ece70-af51-4c84-bca9-8c13b0e402cb/",
+      "lineup": [
+        {
+          "artist_id": "hyojung",
+          "name": "HYOJUNG",
+          "status": "official_announced",
+          "source_url": "https://m.ticket.yes24.com/Notice/18580",
+          "checked_at": "2026-10-07",
+          "performance_date": "2026-10-17"
+        }
+      ],
+      "official_title": "HYOJUNG 1st LIVE 〈Lost & Found〉",
+      "source_publisher": "YES24 · 롤링홀 / DSP미디어",
+      "title_source": "KPOP LIVE MAP 편집 제목",
+      "region": "서울"
+    },
+    {
+      "event_id": "event-86814838-426e-4584-bf9d-42f8a9e20a44",
+      "event_type": "concert",
+      "title": "넥스지 서울 공연 — SAUCIN’ THE WORLD",
+      "country_code": "KR",
+      "city": "서울",
+      "start_date": "2026-10-17",
+      "end_date": "2026-10-17",
+      "start_time": "18:00:00",
+      "timezone": "Asia/Seoul",
+      "venue": "올림픽홀",
+      "venue_address": "서울특별시 송파구 올림픽로 424",
+      "artist_ids": [
+        "nexz"
+      ],
+      "lineup_status": "announced",
+      "event_status": "scheduled",
+      "verification_status": "official_crosschecked",
+      "verified_fields": [
+        "artist",
+        "date",
+        "venue",
+        "start_time"
+      ],
+      "reference_url": "https://kpoplivemap.com/ko/events/event-86814838-426e-4584-bf9d-42f8a9e20a44",
+      "official_source_url": "https://nexz.jype.com/notice/425oavhu",
+      "checked_at": "2026-10-07",
+      "booking_availability": "unverified",
+      "verification_note": "공식 공지와 날짜·시각·공연장을 대조함. 실제 출연 완료를 뜻하지 않음.",
+      "date_text_original": "2026-10-17 · 18:00:00",
+      "date_text_original_source": "reference_site",
+      "location_evidence": "서울 · 대한민국",
+      "performance_path": "/performances/event-86814838-426e-4584-bf9d-42f8a9e20a44/",
+      "lineup": [
+        {
+          "artist_id": "nexz",
+          "name": "NEXZ",
+          "status": "official_announced",
+          "source_url": "https://nexz.jype.com/notice/425oavhu",
+          "checked_at": "2026-10-07",
+          "performance_date": "2026-10-17"
+        }
+      ],
+      "official_title": "NEXZ 1ST ASIA TOUR <SAUCIN’ THE WORLD>",
+      "source_publisher": "JYP Entertainment",
+      "title_source": "KPOP LIVE MAP 편집 제목",
+      "region": "서울"
+    },
+    {
+      "event_id": "event-c43c8874-781b-4ebd-936d-b660c416c77e",
+      "event_type": "concert",
+      "title": "아일릿 인천 공연 — PRESS START♥ ENCORE",
+      "country_code": "KR",
+      "city": "인천",
+      "start_date": "2026-10-17",
+      "end_date": "2026-10-17",
+      "start_time": null,
+      "timezone": "Asia/Seoul",
+      "venue": "인스파이어 아레나",
+      "venue_address": "인천광역시 공항문화로 127",
+      "artist_ids": [
+        "illit"
+      ],
+      "lineup_status": "announced",
+      "event_status": "scheduled",
+      "verification_status": "official_crosschecked",
+      "verified_fields": [
+        "artist",
+        "date",
+        "venue"
+      ],
+      "reference_url": "https://kpoplivemap.com/ko/events/event-c43c8874-781b-4ebd-936d-b660c416c77e",
+      "official_source_url": "https://weverse.io/illit/notice/37855",
+      "checked_at": "2026-10-07",
+      "booking_availability": "unverified",
+      "verification_note": "아일릿 공식 최초 공지의 시작 시각은 추후 발표로 되어 있어 이번 자료에는 시간을 넣지 않음.",
+      "date_text_original": "2026-10-17 · 18:00:00",
+      "date_text_original_source": "reference_site",
+      "location_evidence": "인천 · 대한민국",
+      "performance_path": "/performances/event-c43c8874-781b-4ebd-936d-b660c416c77e/",
+      "lineup": [
+        {
+          "artist_id": "illit",
+          "name": "ILLIT",
+          "status": "official_announced",
+          "source_url": "https://weverse.io/illit/notice/37855",
+          "checked_at": "2026-10-07",
+          "performance_date": "2026-10-17"
+        }
+      ],
+      "official_title": "ILLIT LIVE ‘PRESS START♥︎’ ENCORE in KOREA",
+      "source_publisher": "BELIFT LAB · Weverse",
+      "title_source": "KPOP LIVE MAP 편집 제목",
+      "region": "인천"
+    },
+    {
+      "event_id": "event-43a92929-8edb-4389-8273-374bab5f1ffd",
+      "event_type": "concert",
+      "title": "하이라이트 서울 팬콘 — 18년차 아이돌인 내가 이세계에선 데뷔조 연습생?!",
+      "country_code": "KR",
+      "city": "서울",
+      "start_date": "2026-10-18",
+      "end_date": "2026-10-18",
+      "start_time": "16:00:00",
+      "timezone": "Asia/Seoul",
+      "venue": "장충체육관",
+      "venue_address": "서울특별시 중구 동호로 241",
+      "artist_ids": [
+        "highlight"
+      ],
+      "lineup_status": "announced",
+      "event_status": "scheduled",
+      "verification_status": "official_crosschecked",
+      "verified_fields": [
+        "artist",
+        "date",
+        "venue",
+        "start_time"
+      ],
+      "reference_url": "https://kpoplivemap.com/ko/events/event-43a92929-8edb-4389-8273-374bab5f1ffd",
+      "official_source_url": "https://m.ticket.yes24.com/Notice/18389",
+      "checked_at": "2026-10-07",
+      "booking_availability": "unverified",
+      "verification_note": "공식 공지와 날짜·시각·공연장을 대조함. 실제 출연 완료를 뜻하지 않음.",
+      "date_text_original": "2026-10-18 · 16:00:00",
+      "date_text_original_source": "reference_site",
+      "location_evidence": "서울 · 대한민국",
+      "performance_path": "/performances/event-43a92929-8edb-4389-8273-374bab5f1ffd/",
+      "lineup": [
+        {
+          "artist_id": "highlight",
+          "name": "HIGHLIGHT",
+          "status": "official_announced",
+          "source_url": "https://m.ticket.yes24.com/Notice/18389",
+          "checked_at": "2026-10-07",
+          "performance_date": "2026-10-18"
+        }
+      ],
+      "official_title": "2026 HIGHLIGHT FAN CON [18년차 아이돌인 내가 이세계에선 데뷔조 연습생?!]",
+      "source_publisher": "YES24 · Around US Entertainment / WEEKENDLIVE",
+      "title_source": "KPOP LIVE MAP 편집 제목",
+      "region": "서울"
+    },
+    {
+      "event_id": "event-8be4c150-f01b-47b7-b9f5-47ca7ce693ab",
+      "event_type": "concert",
+      "title": "넥스지 서울 공연 — SAUCIN’ THE WORLD",
+      "country_code": "KR",
+      "city": "서울",
+      "start_date": "2026-10-18",
+      "end_date": "2026-10-18",
+      "start_time": "16:00:00",
+      "timezone": "Asia/Seoul",
+      "venue": "올림픽홀",
+      "venue_address": "서울특별시 송파구 올림픽로 424",
+      "artist_ids": [
+        "nexz"
+      ],
+      "lineup_status": "announced",
+      "event_status": "scheduled",
+      "verification_status": "official_crosschecked",
+      "verified_fields": [
+        "artist",
+        "date",
+        "venue",
+        "start_time"
+      ],
+      "reference_url": "https://kpoplivemap.com/ko/events/event-8be4c150-f01b-47b7-b9f5-47ca7ce693ab",
+      "official_source_url": "https://nexz.jype.com/notice/425oavhu",
+      "checked_at": "2026-10-07",
+      "booking_availability": "unverified",
+      "verification_note": "공식 공지와 날짜·시각·공연장을 대조함. 실제 출연 완료를 뜻하지 않음.",
+      "date_text_original": "2026-10-18 · 16:00:00",
+      "date_text_original_source": "reference_site",
+      "location_evidence": "서울 · 대한민국",
+      "performance_path": "/performances/event-8be4c150-f01b-47b7-b9f5-47ca7ce693ab/",
+      "lineup": [
+        {
+          "artist_id": "nexz",
+          "name": "NEXZ",
+          "status": "official_announced",
+          "source_url": "https://nexz.jype.com/notice/425oavhu",
+          "checked_at": "2026-10-07",
+          "performance_date": "2026-10-18"
+        }
+      ],
+      "official_title": "NEXZ 1ST ASIA TOUR <SAUCIN’ THE WORLD>",
+      "source_publisher": "JYP Entertainment",
+      "title_source": "KPOP LIVE MAP 편집 제목",
+      "region": "서울"
+    },
+    {
+      "event_id": "event-9c4010ed-23b1-4032-afcc-99ac3f430711",
+      "event_type": "concert",
+      "title": "아일릿 인천 공연 — PRESS START♥ ENCORE",
+      "country_code": "KR",
+      "city": "인천",
+      "start_date": "2026-10-18",
+      "end_date": "2026-10-18",
+      "start_time": null,
+      "timezone": "Asia/Seoul",
+      "venue": "인스파이어 아레나",
+      "venue_address": "인천광역시 공항문화로 127",
+      "artist_ids": [
+        "illit"
+      ],
+      "lineup_status": "announced",
+      "event_status": "scheduled",
+      "verification_status": "official_crosschecked",
+      "verified_fields": [
+        "artist",
+        "date",
+        "venue"
+      ],
+      "reference_url": "https://kpoplivemap.com/ko/events/event-9c4010ed-23b1-4032-afcc-99ac3f430711",
+      "official_source_url": "https://weverse.io/illit/notice/37855",
+      "checked_at": "2026-10-07",
+      "booking_availability": "unverified",
+      "verification_note": "아일릿 공식 최초 공지의 시작 시각은 추후 발표로 되어 있어 이번 자료에는 시간을 넣지 않음.",
+      "date_text_original": "2026-10-18 · 17:00:00",
+      "date_text_original_source": "reference_site",
+      "location_evidence": "인천 · 대한민국",
+      "performance_path": "/performances/event-9c4010ed-23b1-4032-afcc-99ac3f430711/",
+      "lineup": [
+        {
+          "artist_id": "illit",
+          "name": "ILLIT",
+          "status": "official_announced",
+          "source_url": "https://weverse.io/illit/notice/37855",
+          "checked_at": "2026-10-07",
+          "performance_date": "2026-10-18"
+        }
+      ],
+      "official_title": "ILLIT LIVE ‘PRESS START♥︎’ ENCORE in KOREA",
+      "source_publisher": "BELIFT LAB · Weverse",
+      "title_source": "KPOP LIVE MAP 편집 제목",
+      "region": "인천"
+    },
+    {
+      "event_id": "event-c11678d9-cd87-4bff-8e2a-e855ad2a7c74",
+      "event_type": "concert",
+      "title": "효정 서울 솔로 공연 — Lost & Found",
+      "country_code": "KR",
+      "city": "서울",
+      "start_date": "2026-10-18",
+      "end_date": "2026-10-18",
+      "start_time": "17:00:00",
+      "timezone": "Asia/Seoul",
+      "venue": "엑스칼라",
+      "venue_address": "서울특별시 중구 남대문시장10길 2, MESA 10층",
+      "artist_ids": [
+        "hyojung"
+      ],
+      "lineup_status": "announced",
+      "event_status": "scheduled",
+      "verification_status": "official_crosschecked",
+      "verified_fields": [
+        "artist",
+        "date",
+        "venue",
+        "start_time"
+      ],
+      "reference_url": "https://kpoplivemap.com/ko/events/event-c11678d9-cd87-4bff-8e2a-e855ad2a7c74",
+      "official_source_url": "https://m.ticket.yes24.com/Notice/18580",
+      "checked_at": "2026-10-07",
+      "booking_availability": "unverified",
+      "verification_note": "공식 공지와 날짜·시각·공연장을 대조함. 실제 출연 완료를 뜻하지 않음.",
+      "date_text_original": "2026-10-18 · 17:00:00",
+      "date_text_original_source": "reference_site",
+      "location_evidence": "서울 · 대한민국",
+      "performance_path": "/performances/event-c11678d9-cd87-4bff-8e2a-e855ad2a7c74/",
+      "lineup": [
+        {
+          "artist_id": "hyojung",
+          "name": "HYOJUNG",
+          "status": "official_announced",
+          "source_url": "https://m.ticket.yes24.com/Notice/18580",
+          "checked_at": "2026-10-07",
+          "performance_date": "2026-10-18"
+        }
+      ],
+      "official_title": "HYOJUNG 1st LIVE 〈Lost & Found〉",
+      "source_publisher": "YES24 · 롤링홀 / DSP미디어",
+      "title_source": "KPOP LIVE MAP 편집 제목",
+      "region": "서울"
+    },
+    {
+      "event_id": "event-85b781cb-178d-455d-93cf-f986ae89afa8",
+      "event_type": "concert",
+      "title": "82메이저 서울 공연 — 82CLUB : out of control",
+      "country_code": "KR",
+      "city": "서울",
+      "start_date": "2026-10-24",
+      "end_date": "2026-10-24",
+      "start_time": "18:00:00",
+      "timezone": "Asia/Seoul",
+      "venue": "예스24 라이브홀",
+      "venue_address": "서울특별시 광진구 구천면로 20",
+      "artist_ids": [
+        "82major"
+      ],
+      "lineup_status": "announced",
+      "event_status": "scheduled",
+      "verification_status": "official_crosschecked",
+      "verified_fields": [
+        "artist",
+        "date",
+        "venue",
+        "start_time"
+      ],
+      "reference_url": "https://kpoplivemap.com/ko/events/event-85b781cb-178d-455d-93cf-f986ae89afa8",
+      "official_source_url": "https://weverse.io/82major/notice/39018",
+      "checked_at": "2026-10-07",
+      "booking_availability": "unverified",
+      "verification_note": "공식 공지와 날짜·시각·공연장을 대조함. 실제 출연 완료를 뜻하지 않음.",
+      "date_text_original": "2026-10-24 · 18:00:00",
+      "date_text_original_source": "reference_site",
+      "location_evidence": "서울 · 대한민국",
+      "performance_path": "/performances/event-85b781cb-178d-455d-93cf-f986ae89afa8/",
+      "lineup": [
+        {
+          "artist_id": "82major",
+          "name": "82MAJOR",
+          "status": "official_announced",
+          "source_url": "https://weverse.io/82major/notice/39018",
+          "checked_at": "2026-10-07",
+          "performance_date": "2026-10-24"
+        }
+      ],
+      "official_title": "82MAJOR 6th CONCERT <82CLUB : out of control>",
+      "source_publisher": "82MAJOR 공식 · Weverse",
+      "title_source": "KPOP LIVE MAP 편집 제목",
+      "region": "서울"
+    },
+    {
+      "event_id": "event-2d7dc1d8-215f-4307-83b6-237ef0b88260",
+      "event_type": "concert",
+      "title": "82메이저 서울 공연 — 82CLUB : out of control",
+      "country_code": "KR",
+      "city": "서울",
+      "start_date": "2026-10-25",
+      "end_date": "2026-10-25",
+      "start_time": "16:00:00",
+      "timezone": "Asia/Seoul",
+      "venue": "예스24 라이브홀",
+      "venue_address": "서울특별시 광진구 구천면로 20",
+      "artist_ids": [
+        "82major"
+      ],
+      "lineup_status": "announced",
+      "event_status": "scheduled",
+      "verification_status": "official_crosschecked",
+      "verified_fields": [
+        "artist",
+        "date",
+        "venue",
+        "start_time"
+      ],
+      "reference_url": "https://kpoplivemap.com/ko/events/event-2d7dc1d8-215f-4307-83b6-237ef0b88260",
+      "official_source_url": "https://weverse.io/82major/notice/39018",
+      "checked_at": "2026-10-07",
+      "booking_availability": "unverified",
+      "verification_note": "공식 공지와 날짜·시각·공연장을 대조함. 실제 출연 완료를 뜻하지 않음.",
+      "date_text_original": "2026-10-25 · 16:00:00",
+      "date_text_original_source": "reference_site",
+      "location_evidence": "서울 · 대한민국",
+      "performance_path": "/performances/event-2d7dc1d8-215f-4307-83b6-237ef0b88260/",
+      "lineup": [
+        {
+          "artist_id": "82major",
+          "name": "82MAJOR",
+          "status": "official_announced",
+          "source_url": "https://weverse.io/82major/notice/39018",
+          "checked_at": "2026-10-07",
+          "performance_date": "2026-10-25"
+        }
+      ],
+      "official_title": "82MAJOR 6th CONCERT <82CLUB : out of control>",
+      "source_publisher": "82MAJOR 공식 · Weverse",
+      "title_source": "KPOP LIVE MAP 편집 제목",
+      "region": "서울"
+    },
+    {
+      "event_id": "event-5997a102-dd61-40f1-a302-249743a2c81e",
+      "event_type": "concert",
+      "title": "투모로우바이투게더 서울 공연 — STEAL THE WIND",
+      "country_code": "KR",
+      "city": "서울",
+      "start_date": "2026-11-13",
+      "end_date": "2026-11-13",
+      "start_time": "19:00:00",
+      "timezone": "Asia/Seoul",
+      "venue": "KSPO DOME",
+      "venue_address": "서울특별시 송파구 올림픽로 424",
+      "artist_ids": [
+        "tomorrow-x-together"
+      ],
+      "lineup_status": "announced",
+      "event_status": "scheduled",
+      "verification_status": "official_crosschecked",
+      "verified_fields": [
+        "artist",
+        "date",
+        "venue",
+        "start_time"
+      ],
+      "reference_url": "https://kpoplivemap.com/ko/events/event-5997a102-dd61-40f1-a302-249743a2c81e",
+      "official_source_url": "https://weverse.io/txt/notice/39106",
+      "checked_at": "2026-10-07",
+      "booking_availability": "unverified",
+      "verification_note": "공식 공지와 날짜·시각·공연장을 대조함. 실제 출연 완료를 뜻하지 않음.",
+      "date_text_original": "2026-11-13 · 19:00:00",
+      "date_text_original_source": "reference_site",
+      "location_evidence": "서울 · 대한민국",
+      "performance_path": "/performances/event-5997a102-dd61-40f1-a302-249743a2c81e/",
+      "lineup": [
+        {
+          "artist_id": "tomorrow-x-together",
+          "name": "TOMORROW X TOGETHER",
+          "status": "official_announced",
+          "source_url": "https://weverse.io/txt/notice/39106",
+          "checked_at": "2026-10-07",
+          "performance_date": "2026-11-13"
+        }
+      ],
+      "official_title": "TOMORROW X TOGETHER WORLD TOUR <STEAL THE WIND> IN SEOUL",
+      "source_publisher": "BIGHIT MUSIC · Weverse",
+      "title_source": "KPOP LIVE MAP 편집 제목",
+      "region": "서울"
+    },
+    {
+      "event_id": "event-29815d2a-8f6b-42ac-95cb-48487907c675",
+      "event_type": "concert",
+      "title": "투모로우바이투게더 서울 공연 — STEAL THE WIND",
+      "country_code": "KR",
+      "city": "서울",
+      "start_date": "2026-11-14",
+      "end_date": "2026-11-14",
+      "start_time": "18:00:00",
+      "timezone": "Asia/Seoul",
+      "venue": "KSPO DOME",
+      "venue_address": "서울특별시 송파구 올림픽로 424",
+      "artist_ids": [
+        "tomorrow-x-together"
+      ],
+      "lineup_status": "announced",
+      "event_status": "scheduled",
+      "verification_status": "official_crosschecked",
+      "verified_fields": [
+        "artist",
+        "date",
+        "venue",
+        "start_time"
+      ],
+      "reference_url": "https://kpoplivemap.com/ko/events/event-29815d2a-8f6b-42ac-95cb-48487907c675",
+      "official_source_url": "https://weverse.io/txt/notice/39106",
+      "checked_at": "2026-10-07",
+      "booking_availability": "unverified",
+      "verification_note": "공식 공지와 날짜·시각·공연장을 대조함. 실제 출연 완료를 뜻하지 않음.",
+      "date_text_original": "2026-11-14 · 18:00:00",
+      "date_text_original_source": "reference_site",
+      "location_evidence": "서울 · 대한민국",
+      "performance_path": "/performances/event-29815d2a-8f6b-42ac-95cb-48487907c675/",
+      "lineup": [
+        {
+          "artist_id": "tomorrow-x-together",
+          "name": "TOMORROW X TOGETHER",
+          "status": "official_announced",
+          "source_url": "https://weverse.io/txt/notice/39106",
+          "checked_at": "2026-10-07",
+          "performance_date": "2026-11-14"
+        }
+      ],
+      "official_title": "TOMORROW X TOGETHER WORLD TOUR <STEAL THE WIND> IN SEOUL",
+      "source_publisher": "BIGHIT MUSIC · Weverse",
+      "title_source": "KPOP LIVE MAP 편집 제목",
+      "region": "서울"
+    },
+    {
+      "event_id": "event-039a2dc6-41a0-420e-b048-67ada8e55e19",
+      "event_type": "concert",
+      "title": "투모로우바이투게더 서울 공연 — STEAL THE WIND",
+      "country_code": "KR",
+      "city": "서울",
+      "start_date": "2026-11-15",
+      "end_date": "2026-11-15",
+      "start_time": "17:00:00",
+      "timezone": "Asia/Seoul",
+      "venue": "KSPO DOME",
+      "venue_address": "서울특별시 송파구 올림픽로 424",
+      "artist_ids": [
+        "tomorrow-x-together"
+      ],
+      "lineup_status": "announced",
+      "event_status": "scheduled",
+      "verification_status": "official_crosschecked",
+      "verified_fields": [
+        "artist",
+        "date",
+        "venue",
+        "start_time"
+      ],
+      "reference_url": "https://kpoplivemap.com/ko/events/event-039a2dc6-41a0-420e-b048-67ada8e55e19",
+      "official_source_url": "https://weverse.io/txt/notice/39106",
+      "checked_at": "2026-10-07",
+      "booking_availability": "unverified",
+      "verification_note": "공식 공지와 날짜·시각·공연장을 대조함. 실제 출연 완료를 뜻하지 않음.",
+      "date_text_original": "2026-11-15 · 17:00:00",
+      "date_text_original_source": "reference_site",
+      "location_evidence": "서울 · 대한민국",
+      "performance_path": "/performances/event-039a2dc6-41a0-420e-b048-67ada8e55e19/",
+      "lineup": [
+        {
+          "artist_id": "tomorrow-x-together",
+          "name": "TOMORROW X TOGETHER",
+          "status": "official_announced",
+          "source_url": "https://weverse.io/txt/notice/39106",
+          "checked_at": "2026-10-07",
+          "performance_date": "2026-11-15"
+        }
+      ],
+      "official_title": "TOMORROW X TOGETHER WORLD TOUR <STEAL THE WIND> IN SEOUL",
+      "source_publisher": "BIGHIT MUSIC · Weverse",
+      "title_source": "KPOP LIVE MAP 편집 제목",
+      "region": "서울"
+    }
+  ],
+  "festivals": [
+    {
+      "id": "seoul-jazz-2026",
+      "name": "제18회 서울재즈페스티벌 2026",
+      "edition_year": 2026,
+      "region": "서울",
+      "city": "서울특별시 송파구",
+      "start_date": "2026-05-22",
+      "end_date": "2026-05-24",
+      "date_label": "2026년 5월 22–24일 공식 발표 일정",
+      "venue": "올림픽공원",
+      "summary": "재즈와 소울, 팝, 밴드 음악을 함께 만날 수 있도록 국내외 연주자와 가수의 공연을 모은 음악축제.",
+      "lineup": [
+        {
+          "name": "Janelle Monáe",
+          "status": "official_announced",
+          "source_url": "https://www.seouljazz.co.kr/bbs/board.php?bo_table=notice&wr_id=234",
+          "artist_id": null,
+          "source_name": "Janelle Monáe",
+          "festival_id": "seoul-jazz-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        },
+        {
+          "name": "Arturo Sandoval",
+          "status": "official_announced",
+          "source_url": "https://www.seouljazz.co.kr/bbs/board.php?bo_table=notice&wr_id=234",
+          "artist_id": null,
+          "source_name": "Arturo Sandoval",
+          "festival_id": "seoul-jazz-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        },
+        {
+          "name": "Trombone Shorty & Orleans Avenue",
+          "status": "official_announced",
+          "source_url": "https://www.seouljazz.co.kr/bbs/board.php?bo_table=notice&wr_id=234",
+          "artist_id": null,
+          "source_name": "Trombone Shorty & Orleans Avenue",
+          "festival_id": "seoul-jazz-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        },
+        {
+          "name": "DxS (도겸X승관)",
+          "status": "official_announced",
+          "source_url": "https://www.seouljazz.co.kr/bbs/board.php?bo_table=notice&wr_id=234",
+          "artist_id": null,
+          "source_name": "DxS (도겸X승관)",
+          "festival_id": "seoul-jazz-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        },
+        {
+          "name": "CNBLUE",
+          "status": "official_announced",
+          "source_url": "https://www.seouljazz.co.kr/bbs/board.php?bo_table=notice&wr_id=234",
+          "artist_id": null,
+          "source_name": "CNBLUE",
+          "festival_id": "seoul-jazz-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        },
+        {
+          "name": "Emily King",
+          "status": "official_announced",
+          "source_url": "https://www.seouljazz.co.kr/bbs/board.php?bo_table=notice&wr_id=234",
+          "artist_id": null,
+          "source_name": "Emily King",
+          "festival_id": "seoul-jazz-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        },
+        {
+          "name": "Mamas Gun",
+          "status": "official_announced",
+          "source_url": "https://www.seouljazz.co.kr/bbs/board.php?bo_table=notice&wr_id=234",
+          "artist_id": null,
+          "source_name": "Mamas Gun",
+          "festival_id": "seoul-jazz-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        },
+        {
+          "name": "장범준",
+          "status": "official_announced",
+          "source_url": "https://www.seouljazz.co.kr/bbs/board.php?bo_table=notice&wr_id=234",
+          "artist_id": null,
+          "source_name": "장범준",
+          "festival_id": "seoul-jazz-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        },
+        {
+          "name": "Jon Batiste",
+          "status": "official_announced",
+          "source_url": "https://www.seouljazz.co.kr/bbs/board.php?bo_table=notice&wr_id=234",
+          "artist_id": null,
+          "source_name": "Jon Batiste",
+          "festival_id": "seoul-jazz-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        },
+        {
+          "name": "FKJ",
+          "status": "official_announced",
+          "source_url": "https://www.seouljazz.co.kr/bbs/board.php?bo_table=notice&wr_id=234",
+          "artist_id": null,
+          "source_name": "FKJ",
+          "festival_id": "seoul-jazz-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.seouljazz.co.kr/bbs/board.php?bo_table=notice&wr_id=235",
+          "publisher": "서울재즈페스티벌 공식 홈페이지",
+          "evidence": "2026년 타임테이블 공지에서 5월 22일부터 24일까지, 올림픽공원 개최로 안내한다.",
+          "published_at": "2026-05-12",
+          "checked_at": "2026-10-07"
+        },
+        {
+          "url": "https://www.seouljazz.co.kr/bbs/board.php?bo_table=notice&wr_id=234",
+          "publisher": "서울재즈페스티벌 공식 홈페이지",
+          "evidence": "2026년 최종 라인업 공지에 날짜별 아티스트가 수록되어 있다. 대표 10팀만 발췌했다.",
+          "published_at": "2026-05-12",
+          "checked_at": "2026-10-07"
+        }
+      ],
+      "verification_note": "공식 사전 일정·최종 라인업을 확인했다. 일정은 지났지만 실제 개최 및 개별 출연 완료를 입증하는 사후 자료는 이번 조사에서 확인하지 않았다. 라인업은 전체 명단이 아니다.",
+      "checked_at": "2026-10-07",
+      "relationship_note": "공개 축제 자료이며 사용자의 섭외 실적·전속 관계·제휴를 의미하지 않는다.",
+      "country_code": "KR",
+      "booking_availability": "unverified",
+      "festival_path": "/festivals/seoul-jazz/2026/",
+      "date_precision": "day",
+      "announced_month": null,
+      "date_window": "past_dates",
+      "event_evidence_status": "official_schedule",
+      "lineup_coverage": "partial_sample"
+    },
+    {
+      "id": "seoul-winter-2026-2027",
+      "name": "2026 서울윈터페스티벌",
+      "edition_year": 2026,
+      "region": "서울",
+      "city": "서울특별시",
+      "start_date": "2026-12-04",
+      "end_date": "2027-01-31",
+      "date_label": "2026년 12월 4일–2027년 1월 31일 예정",
+      "venue": "광화문광장·청계천·DDP·서울광장·한강공원 등 서울 도심",
+      "summary": "서울 도심의 빛 전시, 마켓과 겨울 체험을 연말연시 일정으로 묶어 소개하는 축제.",
+      "lineup": null,
+      "sources": [
+        {
+          "url": "https://festival.seoul.go.kr/festival/year/loadMap.do",
+          "publisher": "서울특별시 서울축제 공식 홈페이지",
+          "evidence": "연간 축제 로드맵에 서울윈터페스티벌을 2026년 12월 4일–2027년 1월 31일로 안내한다.",
+          "published_at": null,
+          "checked_at": "2026-10-07"
+        },
+        {
+          "url": "https://love.seoul.go.kr/articles/10608",
+          "publisher": "서울특별시 서울사랑",
+          "evidence": "겨울축제 기간과 광화문마켓·서울라이트광화문·서울빛초롱축제·서울광장스케이트장 등의 프로그램을 소개한다. 사업 현황에 따라 일정이 달라질 수 있다고 안내한다.",
+          "published_at": null,
+          "checked_at": "2026-10-07"
+        }
+      ],
+      "verification_note": "2027년까지 이어지는 공식 계획이다. 개별 프로그램의 운영일은 전체 축제 기간과 다를 수 있다. 아티스트별 출연 발표는 확인하지 않았으며, 2027년 독립 회차나 음악축제 일정으로 확대 해석하지 않는다.",
+      "checked_at": "2026-10-07",
+      "relationship_note": "공개 축제 자료이며 사용자의 섭외 실적·전속 관계·제휴를 의미하지 않는다.",
+      "country_code": "KR",
+      "booking_availability": "unverified",
+      "festival_path": "/festivals/seoul-winter/2026/",
+      "date_precision": "day",
+      "announced_month": null,
+      "date_window": "upcoming_dates",
+      "event_evidence_status": "official_plan",
+      "lineup_coverage": "not_verified"
+    },
+    {
+      "id": "busan-rock-2026",
+      "name": "부산국제록페스티벌",
+      "edition_year": 2026,
+      "region": "부산",
+      "city": "부산 사상구",
+      "start_date": "2026-10-02",
+      "end_date": "2026-10-04",
+      "date_label": "2026.10.2~10.4",
+      "venue": "삼락생태공원",
+      "summary": "국내외 밴드 공연과 여러 무대, 참여 프로그램을 함께 운영하는 야외 록 음악 축제.",
+      "lineup": [
+        {
+          "name": "이승윤",
+          "status": "performed_confirmed",
+          "source_url": "https://jpn.moundmedia.co.kr/newsroom/?bmode=view&idx=174974790&q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&t=board",
+          "announcement_source_url": "https://busanrockfestival.com/LINEUP/",
+          "artist_id": null,
+          "source_name": "이승윤",
+          "festival_id": "busan-rock-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": "2026-10-02"
+        },
+        {
+          "name": "장범준",
+          "status": "official_announced",
+          "source_url": "https://busanrockfestival.com/LINEUP/",
+          "artist_id": null,
+          "source_name": "장범준",
+          "festival_id": "busan-rock-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        },
+        {
+          "name": "잔나비",
+          "status": "official_announced",
+          "source_url": "https://busanrockfestival.com/LINEUP/",
+          "artist_id": null,
+          "source_name": "잔나비",
+          "festival_id": "busan-rock-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        },
+        {
+          "name": "페퍼톤스",
+          "status": "official_announced",
+          "source_url": "https://busanrockfestival.com/LINEUP/",
+          "artist_id": null,
+          "source_name": "페퍼톤스",
+          "festival_id": "busan-rock-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        },
+        {
+          "name": "N.Flying",
+          "status": "official_announced",
+          "source_url": "https://busanrockfestival.com/LINEUP/",
+          "artist_id": null,
+          "source_name": "N.Flying",
+          "festival_id": "busan-rock-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        },
+        {
+          "name": "송골매",
+          "status": "official_announced",
+          "source_url": "https://busanrockfestival.com/LINEUP/",
+          "artist_id": null,
+          "source_name": "송골매",
+          "festival_id": "busan-rock-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        },
+        {
+          "name": "CNBLUE",
+          "status": "official_announced",
+          "source_url": "https://busanrockfestival.com/LINEUP/",
+          "artist_id": null,
+          "source_name": "CNBLUE",
+          "festival_id": "busan-rock-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        },
+        {
+          "name": "한로로",
+          "status": "performed_confirmed",
+          "source_url": "https://jpn.moundmedia.co.kr/newsroom/?bmode=view&idx=174976772&q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&t=board",
+          "announcement_source_url": "https://busanrockfestival.com/LINEUP/",
+          "artist_id": null,
+          "source_name": "한로로",
+          "festival_id": "busan-rock-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": "2026-10-04"
+        },
+        {
+          "name": "LUCY",
+          "status": "official_announced",
+          "source_url": "https://busanrockfestival.com/LINEUP/",
+          "artist_id": null,
+          "source_name": "LUCY",
+          "festival_id": "busan-rock-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        },
+        {
+          "name": "카더가든",
+          "status": "official_announced",
+          "source_url": "https://busanrockfestival.com/LINEUP/",
+          "artist_id": null,
+          "source_name": "카더가든",
+          "festival_id": "busan-rock-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.mcst.go.kr/site/s_culture/festival/festivalView.jsp?pRo=2&pSeq=11716",
+          "publisher": "문화체육관광부 지역축제",
+          "evidence": "2026년 10월 2~4일 삼락생태공원 개최 안내.",
+          "checked_at": "2026-10-07"
+        },
+        {
+          "url": "https://busanrockfestival.com/LINEUP/",
+          "publisher": "부산국제록페스티벌 공식",
+          "evidence": "2026년 날짜별 라인업 페이지에서 기재 아티스트명을 확인.",
+          "checked_at": "2026-10-07"
+        },
+        {
+          "url": "https://busanrockfestival.com/notice/2026-busan-international-rock-festival-%E3%80%90-day3-%E3%80%91/",
+          "publisher": "부산국제록페스티벌 공식",
+          "evidence": "2026-10-05 게시된 DAY3 현장 사진 게시물 존재를 확인. 사진 속 인물의 개별 식별은 하지 않음.",
+          "checked_at": "2026-10-07"
+        },
+        {
+          "url": "https://jpn.moundmedia.co.kr/newsroom/?bmode=view&idx=174974790&q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&t=board",
+          "publisher": "마운드미디어 공식 뉴스룸 (MAREUMO 게시물)",
+          "evidence": "2026 부산국제록페스티벌 첫날인 10월 2일 삼락생태공원 그린스테이지에서 공연했다는 사후 기사. 공연곡 및 무대 진행 내용을 본문에 기술. 공식 도메인 검색결과에 제공된 기사 본문으로 확인했으며 직접 열기는 403이었음.",
+          "checked_at": "2026-10-07"
+        },
+        {
+          "url": "https://jpn.moundmedia.co.kr/newsroom/?bmode=view&idx=174976772&q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&t=board",
+          "publisher": "마운드미디어 공식 뉴스룸 (authentic 게시물)",
+          "evidence": "2026 부산국제록페스티벌 10월 4일 삼락스테이지에 올라 공연한 사후 기사. 공연곡과 무대 진행 내용을 본문에 기술. 공식 도메인 검색결과에 제공된 기사 본문으로 확인했으며 직접 열기는 403이었음.",
+          "checked_at": "2026-10-07"
+        }
+      ],
+      "verification_note": "공식 자료에서 확인한 10개 이름의 대표 표본이며 전체 라인업이 아님. 이승윤(10/2)과 한로로(10/4)는 마운드미디어 공식 뉴스룸의 사후 기사 본문으로 개별 공연을 확인해 performed_confirmed로 기록. 해당 공식 도메인의 직접 페이지 열기는 403이었고 검색 도구가 제공한 색인 기사 본문을 확인함. 나머지 8명은 official_announced를 유지하며 실제 출연을 일괄 확정하지 않음.",
+      "checked_at": "2026-10-07",
+      "after_evidence": [
+        {
+          "name": "이승윤",
+          "performed_date": "2026-10-02",
+          "source_url": "https://jpn.moundmedia.co.kr/newsroom/?bmode=view&idx=174974790&q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&t=board",
+          "publisher": "마운드미디어 공식 뉴스룸 (MAREUMO 게시물)",
+          "evidence": "2026 부산국제록페스티벌 첫날인 10월 2일 삼락생태공원 그린스테이지에서 공연했다는 사후 기사. 공연곡 및 무대 진행 내용을 본문에 기술.",
+          "checked_at": "2026-10-07",
+          "access_method": "official_domain_search_index_article_text"
+        },
+        {
+          "name": "한로로",
+          "performed_date": "2026-10-04",
+          "source_url": "https://jpn.moundmedia.co.kr/newsroom/?bmode=view&idx=174976772&q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&t=board",
+          "publisher": "마운드미디어 공식 뉴스룸 (authentic 게시물)",
+          "evidence": "2026 부산국제록페스티벌 10월 4일 삼락스테이지에 올라 공연한 사후 기사. 공연곡과 무대 진행 내용을 본문에 기술.",
+          "checked_at": "2026-10-07",
+          "access_method": "official_domain_search_index_article_text"
+        }
+      ],
+      "country_code": "KR",
+      "booking_availability": "unverified",
+      "festival_path": "/festivals/busan-rock/2026/",
+      "date_precision": "day",
+      "announced_month": null,
+      "date_window": "past_dates",
+      "event_evidence_status": "held_confirmed",
+      "lineup_coverage": "partial_sample"
+    },
+    {
+      "id": "daegu-chimac-2026",
+      "name": "대구치맥페스티벌",
+      "edition_year": 2026,
+      "region": "대구",
+      "city": "대구 달서구",
+      "start_date": "2026-07-01",
+      "end_date": "2026-07-05",
+      "date_label": "2026.7.1~7.5",
+      "venue": "두류공원 일원",
+      "summary": "치킨과 맥주를 중심으로 초청공연과 야간 프로그램을 함께 즐기는 여름 축제.",
+      "lineup": [
+        {
+          "name": "FT아일랜드",
+          "status": "official_announced",
+          "source_url": "https://chimacfestival.com/page/2026/program_schedule.php",
+          "artist_id": null,
+          "source_name": "FT아일랜드",
+          "festival_id": "daegu-chimac-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        },
+        {
+          "name": "N.Flying",
+          "status": "official_announced",
+          "source_url": "https://chimacfestival.com/page/2026/program_schedule.php",
+          "artist_id": null,
+          "source_name": "N.Flying",
+          "festival_id": "daegu-chimac-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        },
+        {
+          "name": "10CM",
+          "status": "official_announced",
+          "source_url": "https://chimacfestival.com/page/2026/program_schedule.php",
+          "artist_id": null,
+          "source_name": "10CM",
+          "festival_id": "daegu-chimac-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        },
+        {
+          "name": "행주",
+          "status": "official_announced",
+          "source_url": "https://chimacfestival.com/page/2026/program_schedule.php",
+          "artist_id": null,
+          "source_name": "행주",
+          "festival_id": "daegu-chimac-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        },
+        {
+          "name": "원슈타인",
+          "status": "official_announced",
+          "source_url": "https://chimacfestival.com/page/2026/program_schedule.php",
+          "artist_id": null,
+          "source_name": "원슈타인",
+          "festival_id": "daegu-chimac-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        },
+        {
+          "name": "카더가든",
+          "status": "official_announced",
+          "source_url": "https://chimacfestival.com/page/2026/program_schedule.php",
+          "artist_id": null,
+          "source_name": "카더가든",
+          "festival_id": "daegu-chimac-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        },
+        {
+          "name": "DJ G.Park",
+          "status": "official_announced",
+          "source_url": "https://chimacfestival.com/page/2026/program_schedule.php",
+          "artist_id": null,
+          "source_name": "DJ G.Park",
+          "festival_id": "daegu-chimac-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://chimacfestival.com/page/program_summary.php",
+          "publisher": "대구치맥페스티벌 공식",
+          "evidence": "2026년 7월 1~5일, 대구시 두류공원 일원으로 안내.",
+          "checked_at": "2026-10-07"
+        },
+        {
+          "url": "https://chimacfestival.com/page/2026/program_schedule.php",
+          "publisher": "대구치맥페스티벌 공식",
+          "evidence": "2026 세부 일정의 치맥 워터콘/Cass 아티스트/EDM 프로그램에서 아티스트명 확인.",
+          "checked_at": "2026-10-07"
+        },
+        {
+          "url": "https://www.visitdaegu.or.kr/notice/242",
+          "publisher": "대구문화예술진흥원 관광본부",
+          "evidence": "2026년 7월 14일 배포 보도자료에서 7월 1~5일 개최 및 축제 성료 확인.",
+          "checked_at": "2026-10-07"
+        }
+      ],
+      "verification_note": "공식 일정에서 확인한 7개 이름의 대표 표본. 축제 개최·성료는 공식 보도자료로 확인했지만 이 보도자료가 개별 아티스트의 실출연까지 증명하지 않으므로 lineup은 출연 발표 상태.",
+      "checked_at": "2026-10-07",
+      "country_code": "KR",
+      "booking_availability": "unverified",
+      "festival_path": "/festivals/daegu-chimac/2026/",
+      "date_precision": "day",
+      "announced_month": null,
+      "date_window": "past_dates",
+      "event_evidence_status": "held_confirmed",
+      "lineup_coverage": "partial_sample"
+    },
+    {
+      "id": "incheon-pentaport-2026",
+      "name": "2026 인천펜타포트 락 페스티벌",
+      "edition_year": 2026,
+      "region": "인천",
+      "city": "인천광역시",
+      "start_date": "2026-07-31",
+      "end_date": "2026-08-02",
+      "date_label": "2026년 7월 31일–8월 2일 공식 발표 일정",
+      "venue": "송도달빛축제공원",
+      "summary": "송도의 야외공원에서 국내외 록과 인디 음악 팀의 라이브를 모아 선보이는 여름 음악축제.",
+      "lineup": [
+        {
+          "name": "MASSIVE ATTACK",
+          "status": "official_announced",
+          "source_url": "https://www.incheon.go.kr/mayor_8/MA040101/view?curPage=25&repSeq=DOM_0000000015246004",
+          "artist_id": null,
+          "source_name": "MASSIVE ATTACK",
+          "festival_id": "incheon-pentaport-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        },
+        {
+          "name": "PIXIES",
+          "status": "official_announced",
+          "source_url": "https://www.incheon.go.kr/mayor_8/MA040101/view?curPage=25&repSeq=DOM_0000000015246004",
+          "artist_id": null,
+          "source_name": "PIXIES",
+          "festival_id": "incheon-pentaport-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        },
+        {
+          "name": "KHRUANGBIN",
+          "status": "official_announced",
+          "source_url": "https://www.incheon.go.kr/mayor_8/MA040101/view?curPage=25&repSeq=DOM_0000000015246004",
+          "artist_id": null,
+          "source_name": "KHRUANGBIN",
+          "festival_id": "incheon-pentaport-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        },
+        {
+          "name": "The Jesus & Mary Chain",
+          "status": "official_announced",
+          "source_url": "https://www.incheon.go.kr/mayor_8/MA040101/view?curPage=25&repSeq=DOM_0000000015246004",
+          "artist_id": null,
+          "source_name": "The Jesus & Mary Chain",
+          "festival_id": "incheon-pentaport-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        },
+        {
+          "name": "혁오",
+          "status": "official_announced",
+          "source_url": "https://www.incheon.go.kr/mayor_8/MA040101/view?curPage=25&repSeq=DOM_0000000015246004",
+          "artist_id": null,
+          "source_name": "혁오",
+          "festival_id": "incheon-pentaport-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        },
+        {
+          "name": "실리카겔",
+          "status": "official_announced",
+          "source_url": "https://www.incheon.go.kr/mayor_8/MA040101/view?curPage=25&repSeq=DOM_0000000015246004",
+          "artist_id": null,
+          "source_name": "실리카겔",
+          "festival_id": "incheon-pentaport-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        },
+        {
+          "name": "이승윤",
+          "status": "official_announced",
+          "source_url": "https://www.incheon.go.kr/mayor_8/MA040101/view?curPage=25&repSeq=DOM_0000000015246004",
+          "artist_id": null,
+          "source_name": "이승윤",
+          "festival_id": "incheon-pentaport-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        },
+        {
+          "name": "술탄오브더디스코",
+          "status": "official_announced",
+          "source_url": "https://www.incheon.go.kr/mayor_8/MA040101/view?curPage=25&repSeq=DOM_0000000015246004",
+          "artist_id": null,
+          "source_name": "술탄오브더디스코",
+          "festival_id": "incheon-pentaport-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        },
+        {
+          "name": "TOUCHED",
+          "status": "official_announced",
+          "source_url": "https://www.incheon.go.kr/mayor_8/MA040101/view?curPage=25&repSeq=DOM_0000000015246004",
+          "artist_id": null,
+          "source_name": "TOUCHED",
+          "festival_id": "incheon-pentaport-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        },
+        {
+          "name": "QWER",
+          "status": "official_announced",
+          "source_url": "https://www.incheon.go.kr/mayor_8/MA040101/view?curPage=25&repSeq=DOM_0000000015246004",
+          "artist_id": null,
+          "source_name": "QWER",
+          "festival_id": "incheon-pentaport-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.incheon.go.kr/IC010101/view?cntPerPage=50&curPage=4&nttNo=2045976&srchKey=srchSj&srchSiteRealmCode=&srchWord=",
+          "publisher": "인천광역시",
+          "evidence": "시 공식 행사 공지가 7월 31일–8월 2일 송도달빛축제공원 일정을 안내한다.",
+          "published_at": "2026-07-03",
+          "checked_at": "2026-10-07"
+        },
+        {
+          "url": "https://www.incheon.go.kr/mayor_8/MA040101/view?curPage=25&repSeq=DOM_0000000015246004",
+          "publisher": "인천광역시",
+          "evidence": "개막 전 보도자료가 국내외 66개 팀과 주요 출연진을 소개한다. 별도 사전 라이브클럽 공연 명단은 포함하지 않았다.",
+          "published_at": "2026-07-30",
+          "checked_at": "2026-10-07"
+        }
+      ],
+      "verification_note": "사전 공식 발표 자료 기준이다. 일정 경과를 실제 개최나 개별 공연 완료의 증거로 취급하지 않았다. 대표 10팀만 발췌했다.",
+      "checked_at": "2026-10-07",
+      "relationship_note": "공개 축제 자료이며 사용자의 섭외 실적·전속 관계·제휴를 의미하지 않는다.",
+      "country_code": "KR",
+      "booking_availability": "unverified",
+      "festival_path": "/festivals/incheon-pentaport/2026/",
+      "date_precision": "day",
+      "announced_month": null,
+      "date_window": "past_dates",
+      "event_evidence_status": "official_schedule",
+      "lineup_coverage": "partial_sample"
+    },
+    {
+      "id": "gwangju-chungjang-2026",
+      "name": "제23회 광주 추억의 충장축제",
+      "edition_year": 2026,
+      "region": "광주",
+      "city": "광주 동구",
+      "start_date": "2026-10-07",
+      "end_date": "2026-10-11",
+      "date_label": "2026.10.7~10.11",
+      "venue": "금남로·충장로·5·18민주광장 일원",
+      "summary": "추억의 노래와 거리 퍼레이드를 통해 세대가 함께 참여하도록 구성한 도심 거리 축제.",
+      "lineup": [
+        {
+          "name": "YB",
+          "status": "official_announced",
+          "source_url": "https://recollection.kr/bbs/board.php?bo_table=program&wr_id=139",
+          "artist_id": null,
+          "source_name": "YB",
+          "festival_id": "gwangju-chungjang-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": "2026-10-07"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://recollection.kr/bbs/content.php?co_id=0101",
+          "publisher": "광주 추억의 충장축제 공식",
+          "evidence": "제23회, 2026년 10월 7~11일, 주제 추억의 노래와 금남로·5·18민주광장 중심 소개 확인.",
+          "checked_at": "2026-10-07"
+        },
+        {
+          "url": "https://recollection.kr/bbs/board.php?bo_table=program&wr_id=139",
+          "publisher": "광주 추억의 충장축제 공식",
+          "evidence": "10월 7일 19:00~21:30 개막쇼 안내 본문에 YB 공연 명시.",
+          "checked_at": "2026-10-07"
+        }
+      ],
+      "verification_note": "확인한 개막쇼 출연자 1팀만 수록. 현재 날짜는 개막일이나 개별 공연이 실제 진행되었음을 확인한 것은 아님. 지역 필드는 요청한 17시도 분류의 광주로 정규화.",
+      "checked_at": "2026-10-07",
+      "country_code": "KR",
+      "booking_availability": "unverified",
+      "festival_path": "/festivals/gwangju-chungjang/2026/",
+      "date_precision": "day",
+      "announced_month": null,
+      "date_window": "current_date_window",
+      "event_evidence_status": "official_schedule",
+      "lineup_coverage": "partial_sample"
+    },
+    {
+      "id": "daejeon-bread-2026",
+      "name": "2026 대전빵축제",
+      "edition_year": 2026,
+      "region": "대전",
+      "city": "대전광역시 유성구",
+      "start_date": "2026-10-17",
+      "end_date": "2026-10-18",
+      "date_label": "2026년 10월 17–18일 예정",
+      "venue": "엑스포과학공원 일원, 한빛탑 주변",
+      "summary": "지역 베이커리 판매와 빵 만들기 체험에 버스킹과 프린지 공연을 더한 먹거리 문화축제.",
+      "lineup": null,
+      "sources": [
+        {
+          "url": "https://www.daejeon.go.kr/its/ItsdjNormalboardView.do?boardGubun=itsdj01&boardSeq=3915&menuSeq=5942&pageIndex=1",
+          "publisher": "대전광역시 이츠대전",
+          "evidence": "9월 23일 기사에서 10월 17–18일 13시–20시 30분 엑스포과학공원 개최와 버스킹·프린지·창작가요제 프로그램을 안내한다.",
+          "published_at": "2026-09-23",
+          "checked_at": "2026-10-07"
+        },
+        {
+          "url": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?cntntsNm=%EB%8C%80%EC%A0%84%EB%B9%B5%EC%B6%95%EC%A0%9C&fstvlCntntsId=f6a18fe7-6577-4381-b706-16ee01b02bd8",
+          "publisher": "한국관광공사 대한민국 구석구석",
+          "evidence": "10월 17–18일 일정과 대덕대로 480 행사장을 안내하고 주최기관을 대전관광공사로 표시한다.",
+          "published_at": "2026-09-15",
+          "checked_at": "2026-10-07"
+        }
+      ],
+      "verification_note": "공연 프로그램이 포함된 지역축제다. 공식 자료에 명명된 출연진은 이번 조사에서 확인하지 못했다. 대전0시축제는 초기 개최계획 이후 변경 가능성을 해소하지 못해 이 자료에 포함하지 않았다.",
+      "checked_at": "2026-10-07",
+      "relationship_note": "공개 축제 자료이며 사용자의 섭외 실적·전속 관계·제휴를 의미하지 않는다.",
+      "country_code": "KR",
+      "booking_availability": "unverified",
+      "festival_path": "/festivals/daejeon-bread/2026/",
+      "date_precision": "day",
+      "announced_month": null,
+      "date_window": "upcoming_dates",
+      "event_evidence_status": "official_schedule",
+      "lineup_coverage": "not_verified"
+    },
+    {
+      "id": "ulsan-whale-2026",
+      "name": "제30회 울산고래축제",
+      "edition_year": 2026,
+      "region": "울산",
+      "city": "울산 남구",
+      "start_date": "2026-10-15",
+      "end_date": "2026-10-18",
+      "date_label": "2026.10.15~10.18",
+      "venue": "장생포 고래문화특구 일원",
+      "summary": "장생포의 고래 문화를 주제로 공연과 퍼레이드, 참여 프로그램을 운영하는 지역 축제.",
+      "lineup": [
+        {
+          "name": "김미자 무용단",
+          "status": "official_announced",
+          "source_url": "https://www.ulsanwhale.com/menu_02/PRG0045.jsp?n=420&pg=1&prc=view",
+          "artist_id": null,
+          "source_name": "김미자 무용단",
+          "festival_id": "ulsan-whale-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": "2026-10-16"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.ulsanwhale.com/",
+          "publisher": "고래문화재단·울산고래축제 공식",
+          "evidence": "2026 제30회 홍보 표기와 10월 15~18일, 장생포 고래문화특구 장소 확인.",
+          "checked_at": "2026-10-07"
+        },
+        {
+          "url": "https://www.ulsanwhale.com/menu_02/PRG0045.jsp?n=420&pg=1&prc=view",
+          "publisher": "울산고래축제 공식",
+          "evidence": "김미자 무용단 2026년 10월 16일 16:00 고래극장 공연 프로그램 확인.",
+          "checked_at": "2026-10-07"
+        }
+      ],
+      "verification_note": "공식 상세 프로그램에서 확인한 공연단체 1팀만 수록. 전체 라인업 및 다른 무대의 연예인 명단은 확인 완료하지 않았음. 2026-10-07 기준 개최 전 발표.",
+      "checked_at": "2026-10-07",
+      "country_code": "KR",
+      "booking_availability": "unverified",
+      "festival_path": "/festivals/ulsan-whale/2026/",
+      "date_precision": "day",
+      "announced_month": null,
+      "date_window": "upcoming_dates",
+      "event_evidence_status": "official_schedule",
+      "lineup_coverage": "partial_sample"
+    },
+    {
+      "id": "sejong-hangeul-2026",
+      "name": "2026 세종한글축제",
+      "edition_year": 2026,
+      "region": "세종",
+      "city": "세종특별자치시",
+      "start_date": "2026-10-09",
+      "end_date": "2026-10-11",
+      "date_label": "2026년 10월 9–11일 예정",
+      "venue": "세종호수공원·세종중앙공원",
+      "summary": "한글을 공연, 놀이, 전시와 시민 참여 체험으로 풀어내는 한글날 연계 지역축제.",
+      "lineup": null,
+      "sources": [
+        {
+          "url": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=9baec2f1-84c7-4b70-aa3e-b8f6fe76b0c1",
+          "publisher": "한국관광공사 대한민국 구석구석",
+          "evidence": "2026년 10월 9–11일, 세종호수공원과 세종중앙공원에서 열리는 행사로 안내한다.",
+          "published_at": null,
+          "checked_at": "2026-10-07"
+        },
+        {
+          "url": "https://sjfestival.kr/dh/festival",
+          "publisher": "세종한글축제 공식 홈페이지",
+          "evidence": "2026년 축제 소개가 한글을 중심으로 한 공연·체험 행사를 설명한다.",
+          "published_at": null,
+          "checked_at": "2026-10-07"
+        },
+        {
+          "url": "https://sjfestival.kr/dh_product/prod_list",
+          "publisher": "세종한글축제 공식 홈페이지",
+          "evidence": "세종거리예술가 콘서트, 지역 전문 예술인 공연 등 프로그램이 게시되어 있다.",
+          "published_at": null,
+          "checked_at": "2026-10-07"
+        }
+      ],
+      "verification_note": "2026년 공식 프로그램을 확인했다. 열람 가능한 텍스트에서 개별 출연자 이름은 확인하지 못했다. 2025년 페이지·출연진을 전용하지 않았다. 빈 라인업은 공식 출연자 미확인을 뜻한다.",
+      "checked_at": "2026-10-07",
+      "relationship_note": "공개 축제 자료이며 사용자의 섭외 실적·전속 관계·제휴를 의미하지 않는다.",
+      "country_code": "KR",
+      "booking_availability": "unverified",
+      "festival_path": "/festivals/sejong-hangeul/2026/",
+      "date_precision": "day",
+      "announced_month": null,
+      "date_window": "upcoming_dates",
+      "event_evidence_status": "official_schedule",
+      "lineup_coverage": "not_verified"
+    },
+    {
+      "id": "jarasum-jazz-2026",
+      "name": "제23회 자라섬재즈페스티벌",
+      "edition_year": 2026,
+      "region": "경기",
+      "city": "가평군",
+      "start_date": "2026-10-09",
+      "end_date": "2026-10-11",
+      "date_label": "2026년 10월 9–11일 예정",
+      "venue": "경기도 가평군 자라섬 및 읍내 일대",
+      "summary": "자라섬과 가평 읍내의 여러 무대를 오가며 국내외 재즈 연주를 만나는 가을 음악축제.",
+      "lineup": [
+        {
+          "name": "Takuya Kuroda",
+          "status": "official_announced",
+          "source_url": "https://www.jarasumjazz.com/The23rdJJF/?bmode=view&idx=172612321&q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjQ6InBhZ2UiO2k6MTt9&t=board",
+          "artist_id": null,
+          "source_name": "Takuya Kuroda",
+          "festival_id": "jarasum-jazz-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        },
+        {
+          "name": "Alto for Two",
+          "status": "official_announced",
+          "source_url": "https://www.jarasumjazz.com/The23rdJJF/?bmode=view&idx=172612321&q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjQ6InBhZ2UiO2k6MTt9&t=board",
+          "artist_id": null,
+          "source_name": "Alto for Two",
+          "festival_id": "jarasum-jazz-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        },
+        {
+          "name": "WAKAN",
+          "status": "official_announced",
+          "source_url": "https://www.jarasumjazz.com/The23rdJJF/?bmode=view&idx=172612321&q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjQ6InBhZ2UiO2k6MTt9&t=board",
+          "artist_id": null,
+          "source_name": "WAKAN",
+          "festival_id": "jarasum-jazz-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        },
+        {
+          "name": "Bando",
+          "status": "official_announced",
+          "source_url": "https://www.jarasumjazz.com/The23rdJJF/?bmode=view&idx=172612321&q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjQ6InBhZ2UiO2k6MTt9&t=board",
+          "artist_id": null,
+          "source_name": "Bando",
+          "festival_id": "jarasum-jazz-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        },
+        {
+          "name": "NAMDO CALLING",
+          "status": "official_announced",
+          "source_url": "https://www.jarasumjazz.com/The23rdJJF/?bmode=view&idx=172612321&q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjQ6InBhZ2UiO2k6MTt9&t=board",
+          "artist_id": null,
+          "source_name": "NAMDO CALLING",
+          "festival_id": "jarasum-jazz-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        },
+        {
+          "name": "Alfredo Rodriguez",
+          "status": "official_announced",
+          "source_url": "https://www.jarasumjazz.com/The23rdJJF/?bmode=view&idx=172612321&q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjQ6InBhZ2UiO2k6MTt9&t=board",
+          "artist_id": null,
+          "source_name": "Alfredo Rodriguez",
+          "festival_id": "jarasum-jazz-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        },
+        {
+          "name": "김오키 럽럽",
+          "status": "official_announced",
+          "source_url": "https://www.jarasumjazz.com/The23rdJJF/?bmode=view&idx=172612321&q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjQ6InBhZ2UiO2k6MTt9&t=board",
+          "artist_id": null,
+          "source_name": "김오키 럽럽",
+          "festival_id": "jarasum-jazz-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        },
+        {
+          "name": "Bruno Pernadas",
+          "status": "official_announced",
+          "source_url": "https://www.jarasumjazz.com/The23rdJJF/?bmode=view&idx=172612321&q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjQ6InBhZ2UiO2k6MTt9&t=board",
+          "artist_id": null,
+          "source_name": "Bruno Pernadas",
+          "festival_id": "jarasum-jazz-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        },
+        {
+          "name": "Andromeda Mega Express Orchestra",
+          "status": "official_announced",
+          "source_url": "https://www.jarasumjazz.com/The23rdJJF/?bmode=view&idx=172612321&q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjQ6InBhZ2UiO2k6MTt9&t=board",
+          "artist_id": null,
+          "source_name": "Andromeda Mega Express Orchestra",
+          "festival_id": "jarasum-jazz-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        },
+        {
+          "name": "YL Jazz Trio",
+          "status": "official_announced",
+          "source_url": "https://www.jarasumjazz.com/The23rdJJF/?bmode=view&idx=172612321&q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjQ6InBhZ2UiO2k6MTt9&t=board",
+          "artist_id": null,
+          "source_name": "YL Jazz Trio",
+          "festival_id": "jarasum-jazz-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.jarasumjazz.com/The23rdJJF/?bmode=view&idx=172612321&q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjQ6InBhZ2UiO2k6MTt9&t=board",
+          "publisher": "자라섬재즈페스티벌",
+          "evidence": "제23회 일자별 1차 라인업 공지가 10월 9일과 10일에 위 아티스트들을 배치한다. 대표 10팀을 발췌했다.",
+          "published_at": null,
+          "checked_at": "2026-10-07"
+        },
+        {
+          "url": "https://jarasumjazz.com/?bmode=view&idx=174824062&q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&t=board",
+          "publisher": "자라섬재즈페스티벌",
+          "evidence": "2026년 무대 소개 공지가 10월 9–11일 가평군 자라섬 및 읍내 일대를 명시한다. 섬의 무대와 잣고을시장·음악역1939 등의 읍내 무대를 구분한다.",
+          "published_at": null,
+          "checked_at": "2026-10-07"
+        }
+      ],
+      "verification_note": "공식 웹페이지 직접 열기는 403으로 제한되어 공식 사이트의 검색 인덱스 본문을 확인했다. 우회 접속은 하지 않았다. 1차 발표 대표 10팀이며 최종 전체 라인업은 아니다. 2026년 10월 7일 현재 미래 일정이므로 실제 출연 이력으로 표시하면 안 된다.",
+      "checked_at": "2026-10-07",
+      "relationship_note": "공개 축제 자료이며 사용자의 섭외 실적·전속 관계·제휴를 의미하지 않는다.",
+      "country_code": "KR",
+      "booking_availability": "unverified",
+      "festival_path": "/festivals/jarasum-jazz/2026/",
+      "date_precision": "day",
+      "announced_month": null,
+      "date_window": "upcoming_dates",
+      "event_evidence_status": "official_schedule",
+      "lineup_coverage": "partial_sample"
+    },
+    {
+      "id": "chuncheon-mime-2026",
+      "name": "제38회 춘천마임축제 2026",
+      "edition_year": 2026,
+      "region": "강원",
+      "city": "춘천시",
+      "start_date": "2026-05-24",
+      "end_date": "2026-05-31",
+      "date_label": "2026년 5월 24–31일 개최 확인",
+      "venue": "춘천 중앙로, 축제극장몸짓, 석사천 산책로, 우두공원, 커먼즈필드, 레고랜드 코리아 리조트 주차장 등",
+      "summary": "마임과 거리예술, 현대무용, 서커스를 도시 여러 공간에서 만나는 공연예술축제. 말보다 몸짓을 중심으로 관객과 소통하는 작품을 소개한다.",
+      "lineup": [
+        {
+          "name": "삑삑이",
+          "status": "performed_confirmed",
+          "source_url": "https://www.chuncheon.go.kr/mayor/newsroom/press-release/?bbsId=BBSMSTR_000000000335&flag=view&nttId=520614",
+          "artist_id": null,
+          "source_name": "삑삑이",
+          "festival_id": "chuncheon-mime-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        },
+        {
+          "name": "메리코",
+          "status": "performed_confirmed",
+          "source_url": "https://www.chuncheon.go.kr/mayor/newsroom/press-release/?bbsId=BBSMSTR_000000000335&flag=view&nttId=520614",
+          "artist_id": null,
+          "source_name": "메리코",
+          "festival_id": "chuncheon-mime-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        },
+        {
+          "name": "블루댄스씨어터",
+          "status": "performed_confirmed",
+          "source_url": "https://www.chuncheon.go.kr/mayor/newsroom/press-release/?bbsId=BBSMSTR_000000000335&flag=view&nttId=520614",
+          "artist_id": null,
+          "source_name": "블루댄스씨어터",
+          "festival_id": "chuncheon-mime-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        },
+        {
+          "name": "파이어 앨범",
+          "status": "performed_confirmed",
+          "source_url": "https://www.chuncheon.go.kr/mayor/newsroom/press-release/?bbsId=BBSMSTR_000000000335&flag=view&nttId=520614",
+          "artist_id": null,
+          "source_name": "파이어 앨범",
+          "festival_id": "chuncheon-mime-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        },
+        {
+          "name": "갬블러크루",
+          "status": "performed_confirmed",
+          "source_url": "https://www.chuncheon.go.kr/mayor/newsroom/press-release/?bbsId=BBSMSTR_000000000335&flag=view&nttId=520614",
+          "artist_id": null,
+          "source_name": "갬블러크루",
+          "festival_id": "chuncheon-mime-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        },
+        {
+          "name": "레이지본",
+          "status": "performed_confirmed",
+          "source_url": "https://www.chuncheon.go.kr/mayor/newsroom/press-release/?bbsId=BBSMSTR_000000000335&flag=view&nttId=520614",
+          "artist_id": null,
+          "source_name": "레이지본",
+          "festival_id": "chuncheon-mime-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        },
+        {
+          "name": "만스케 극단",
+          "status": "performed_confirmed",
+          "source_url": "https://www.chuncheon.go.kr/mayor/newsroom/press-release/?bbsId=BBSMSTR_000000000335&flag=view&nttId=520614",
+          "artist_id": null,
+          "source_name": "만스케 극단",
+          "festival_id": "chuncheon-mime-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        },
+        {
+          "name": "레이스 홀스 컴퍼니",
+          "status": "performed_confirmed",
+          "source_url": "https://www.chuncheon.go.kr/mayor/newsroom/press-release/?bbsId=BBSMSTR_000000000335&flag=view&nttId=520614",
+          "artist_id": null,
+          "source_name": "레이스 홀스 컴퍼니",
+          "festival_id": "chuncheon-mime-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        },
+        {
+          "name": "김찬수 마임컴퍼니",
+          "status": "performed_confirmed",
+          "source_url": "https://www.chuncheon.go.kr/mayor/newsroom/press-release/?bbsId=BBSMSTR_000000000335&flag=view&nttId=520614",
+          "artist_id": null,
+          "source_name": "김찬수 마임컴퍼니",
+          "festival_id": "chuncheon-mime-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        },
+        {
+          "name": "에밀리아노 알레시 컴퍼니",
+          "status": "performed_confirmed",
+          "source_url": "https://www.chuncheon.go.kr/mayor/newsroom/press-release/?bbsId=BBSMSTR_000000000335&flag=view&nttId=520614",
+          "artist_id": null,
+          "source_name": "에밀리아노 알레시 컴퍼니",
+          "festival_id": "chuncheon-mime-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.chuncheon.go.kr/mayor/newsroom/press-release/?bbsId=BBSMSTR_000000000335&flag=view&nttId=520614",
+          "publisher": "춘천시",
+          "evidence": "6월 1일 공식 성료 보도자료가 5월 24–31일 개최 장소를 정리하고, 명시된 공연팀들이 무대에 올랐다고 기록한다.",
+          "published_at": "2026-06-01",
+          "checked_at": "2026-10-07"
+        }
+      ],
+      "verification_note": "공식 사후 보도자료로 행사 성료와 해당 출연팀의 공연을 확인했다. 출연진은 기사에 기재된 전체 참가팀 중 대표 10팀 발췌다.",
+      "checked_at": "2026-10-07",
+      "relationship_note": "공개 축제 자료이며 사용자의 섭외 실적·전속 관계·제휴를 의미하지 않는다.",
+      "country_code": "KR",
+      "booking_availability": "unverified",
+      "festival_path": "/festivals/chuncheon-mime/2026/",
+      "date_precision": "day",
+      "announced_month": null,
+      "date_window": "past_dates",
+      "event_evidence_status": "held_confirmed",
+      "lineup_coverage": "partial_sample"
+    },
+    {
+      "id": "jecheon-jimff-2026",
+      "name": "제22회 제천국제음악영화제",
+      "edition_year": 2026,
+      "region": "충북",
+      "city": "제천시",
+      "start_date": "2026-09-03",
+      "end_date": "2026-09-08",
+      "date_label": "2026년 9월 3–8일 개최 확인",
+      "venue": "제천예술의전당·제천문화극장 등 제천 도심; 원썸머나잇은 제천예술의전당 여름광장",
+      "summary": "음악영화 상영과 라이브 공연을 함께 구성해 영화 관람과 도심 음악 무대를 연결하는 문화축제.",
+      "lineup": [
+        {
+          "name": "FTISLAND",
+          "status": "performed_confirmed",
+          "source_url": "https://www.jimff.org/eng/artyboard/mboard.asp?Action=view&intSeq=5678&strBoardID=FBVZ_X12D",
+          "artist_id": null,
+          "source_name": "FTISLAND",
+          "festival_id": "jecheon-jimff-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        },
+        {
+          "name": "Crush",
+          "status": "performed_confirmed",
+          "source_url": "https://www.jimff.org/eng/artyboard/mboard.asp?Action=view&intSeq=5678&strBoardID=FBVZ_X12D",
+          "artist_id": null,
+          "source_name": "Crush",
+          "festival_id": "jecheon-jimff-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        },
+        {
+          "name": "이승윤",
+          "status": "performed_confirmed",
+          "source_url": "https://www.jimff.org/eng/artyboard/mboard.asp?Action=view&intSeq=5678&strBoardID=FBVZ_X12D",
+          "artist_id": null,
+          "source_name": "LEE Seungyoon",
+          "festival_id": "jecheon-jimff-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        },
+        {
+          "name": "새소년",
+          "status": "performed_confirmed",
+          "source_url": "https://www.jimff.org/eng/artyboard/mboard.asp?Action=view&intSeq=5678&strBoardID=FBVZ_X12D",
+          "artist_id": null,
+          "source_name": "SE SO NEON",
+          "festival_id": "jecheon-jimff-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        },
+        {
+          "name": "소란",
+          "status": "performed_confirmed",
+          "source_url": "https://www.jimff.org/eng/artyboard/mboard.asp?Action=view&intSeq=5678&strBoardID=FBVZ_X12D",
+          "artist_id": null,
+          "source_name": "Soran",
+          "festival_id": "jecheon-jimff-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        },
+        {
+          "name": "MONSTA X",
+          "status": "performed_confirmed",
+          "source_url": "https://www.jimff.org/eng/artyboard/mboard.asp?Action=view&intSeq=5678&strBoardID=FBVZ_X12D",
+          "artist_id": null,
+          "source_name": "MONSTA X",
+          "festival_id": "jecheon-jimff-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        },
+        {
+          "name": "RESCENE",
+          "status": "performed_confirmed",
+          "source_url": "https://www.jimff.org/eng/artyboard/mboard.asp?Action=view&intSeq=5678&strBoardID=FBVZ_X12D",
+          "artist_id": null,
+          "source_name": "RESCENE",
+          "festival_id": "jecheon-jimff-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        },
+        {
+          "name": "코요태",
+          "status": "performed_confirmed",
+          "source_url": "https://www.jimff.org/eng/artyboard/mboard.asp?Action=view&intSeq=5678&strBoardID=FBVZ_X12D",
+          "artist_id": null,
+          "source_name": "Koyote",
+          "festival_id": "jecheon-jimff-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        },
+        {
+          "name": "채연",
+          "status": "performed_confirmed",
+          "source_url": "https://www.jimff.org/eng/artyboard/mboard.asp?Action=view&intSeq=5678&strBoardID=FBVZ_X12D",
+          "artist_id": null,
+          "source_name": "CHAE Yeon",
+          "festival_id": "jecheon-jimff-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        },
+        {
+          "name": "노브레인",
+          "status": "performed_confirmed",
+          "source_url": "https://www.jimff.org/eng/artyboard/mboard.asp?Action=view&intSeq=5678&strBoardID=FBVZ_X12D",
+          "artist_id": null,
+          "source_name": "No Brain",
+          "festival_id": "jecheon-jimff-2026",
+          "edition_year": 2026,
+          "checked_at": "2026-10-07",
+          "performance_date": null
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.jimff.org/eng/default.asp",
+          "publisher": "제천국제음악영화제",
+          "evidence": "2026년 공식 홈페이지가 제22회 행사 기간을 9월 3–8일로 표시한다.",
+          "published_at": null,
+          "checked_at": "2026-10-07"
+        },
+        {
+          "url": "https://www.jimff.org/eng/artyboard/mboard.asp?Action=view&intSeq=5678&strBoardID=FBVZ_X12D",
+          "publisher": "제천국제음악영화제",
+          "evidence": "9월 11일 사후 결산은 원썸머나잇 참여 7팀과 원썸머드림 무대의 코요태·채연·노브레인 등을 출연자로 기록한다.",
+          "published_at": "2026-09-11",
+          "checked_at": "2026-10-07"
+        },
+        {
+          "url": "https://jcac.kr/jcac/bbs/board.php?bo_table=schedule&wr_id=303",
+          "publisher": "제천예술의전당",
+          "evidence": "원썸머나잇 공연을 9월 4–5일 19시 30분, 제천예술의전당 여름광장으로 안내한다.",
+          "published_at": null,
+          "checked_at": "2026-10-07"
+        }
+      ],
+      "verification_note": "공식 사후 결산으로 실제 개최와 공연을 확인했다. 앞의 7팀은 원썸머나잇, 뒤의 3팀은 원썸머드림 출연이다. 두 프로그램을 합쳐 대표 10팀을 발췌했다. 초기 입찰문서의 제천비행장 표기는 최신 공연장 안내와 달라 채택하지 않았다.",
+      "checked_at": "2026-10-07",
+      "relationship_note": "공개 축제 자료이며 사용자의 섭외 실적·전속 관계·제휴를 의미하지 않는다.",
+      "country_code": "KR",
+      "booking_availability": "unverified",
+      "festival_path": "/festivals/jecheon-jimff/2026/",
+      "date_precision": "day",
+      "announced_month": null,
+      "date_window": "past_dates",
+      "event_evidence_status": "held_confirmed",
+      "lineup_coverage": "partial_sample"
+    },
+    {
+      "id": "cheonan-dance-2026",
+      "name": "천안흥타령춤축제 2026",
+      "edition_year": 2026,
+      "region": "충남",
+      "city": "천안시",
+      "start_date": "2026-10-01",
+      "end_date": "2026-10-05",
+      "date_label": "2026년 10월 1–5일 공식 발표 일정",
+      "venue": "천안종합운동장 및 천안삼거리공원",
+      "summary": "국내외 춤 경연과 거리 퍼레이드를 중심으로 공연과 시민 참여 프로그램을 구성하는 도시형 댄스축제.",
+      "lineup": null,
+      "sources": [
+        {
+          "url": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?cmsCntntsId=506935",
+          "publisher": "한국관광공사 대한민국 구석구석",
+          "evidence": "2026년 10월 1–5일과 천안종합운동장·천안삼거리공원을 행사 기간·장소로 안내한다.",
+          "published_at": "2026-09-23",
+          "checked_at": "2026-10-07"
+        },
+        {
+          "url": "https://www.mcst.go.kr/site/s_culture/festival/festivalView.jsp?pRo=4&pSeq=11672",
+          "publisher": "문화체육관광부",
+          "evidence": "같은 기간·장소를 안내하고 주관기관을 천안문화재단으로 표시한다.",
+          "published_at": null,
+          "checked_at": "2026-10-07"
+        }
+      ],
+      "verification_note": "공식 일정은 확인했으나 명명된 아티스트 및 실제 공연 완료를 입증할 주최기관 사후 자료는 확인하지 못했다. 빈 라인업은 출연진이 없다는 뜻이 아니라 공식 출연자 미확인을 뜻한다.",
+      "checked_at": "2026-10-07",
+      "relationship_note": "공개 축제 자료이며 사용자의 섭외 실적·전속 관계·제휴를 의미하지 않는다.",
+      "country_code": "KR",
+      "booking_availability": "unverified",
+      "festival_path": "/festivals/cheonan-dance/2026/",
+      "date_precision": "day",
+      "announced_month": null,
+      "date_window": "past_dates",
+      "event_evidence_status": "official_schedule",
+      "lineup_coverage": "not_verified"
+    },
+    {
+      "id": "imsil-cheese-2026",
+      "name": "임실N치즈축제",
+      "edition_year": 2026,
+      "region": "전북",
+      "city": "임실군",
+      "start_date": "2026-10-08",
+      "end_date": "2026-10-11",
+      "date_label": "2026.10.8~10.11",
+      "venue": "임실치즈테마파크·임실치즈마을·임실읍 일원",
+      "summary": "지역 치즈를 소재로 먹거리와 체험, 문화 프로그램을 구성하는 관광형 축제.",
+      "lineup": null,
+      "sources": [
+        {
+          "url": "https://imsilfestival.com/?c=543/544&r=2025N",
+          "publisher": "임실N치즈축제제전위원회 공식",
+          "evidence": "URL에 2025N이 있어도 개요 본문은 행사명 2026, 10월 8~11일과 세 장소를 명시.",
+          "checked_at": "2026-10-07"
+        },
+        {
+          "url": "https://imsilfestival.com/?c=555/556&r=2025N",
+          "publisher": "임실N치즈축제제전위원회 공식",
+          "evidence": "공연 상세에 2025.10.08 및 2025 축제 문구가 남아 있어 해당 페이지 가수명을 2026 출연진으로 채택하지 않음.",
+          "checked_at": "2026-10-07"
+        }
+      ],
+      "verification_note": "2026 일정·장소는 공식 개요로 확인. 공연 상세의 손태진·배아현·김다현·미미로즈는 명시적 2025 자료이므로 올해 lineup에서 제외. 올해 출연진 확인 대기.",
+      "checked_at": "2026-10-07",
+      "country_code": "KR",
+      "booking_availability": "unverified",
+      "festival_path": "/festivals/imsil-cheese/2026/",
+      "date_precision": "day",
+      "announced_month": null,
+      "date_window": "upcoming_dates",
+      "event_evidence_status": "official_schedule",
+      "lineup_coverage": "not_verified"
+    },
+    {
+      "id": "jangheung-water-2026",
+      "name": "제19회 정남진 장흥 물축제",
+      "edition_year": 2026,
+      "region": "전남",
+      "city": "장흥군",
+      "start_date": "2026-07-25",
+      "end_date": "2026-08-02",
+      "date_label": "2026.7.25~8.2",
+      "venue": "탐진강·빠삐용ZIP·편백숲 우드랜드 일원",
+      "summary": "물놀이와 숲·치유 체험을 중심으로 공연을 연계하는 여름 축제.",
+      "lineup": null,
+      "sources": [
+        {
+          "url": "https://www.jhctf.or.kr/www/",
+          "publisher": "장흥축제관광재단",
+          "evidence": "제19회 축제의 2026년 7월 25일~8월 2일과 행사장 세 곳 확인.",
+          "checked_at": "2026-10-07"
+        },
+        {
+          "url": "https://www.jhctf.or.kr/www/foundation_news/press",
+          "publisher": "장흥축제관광재단",
+          "evidence": "제19회 축제 자문위원회 보도자료에서 물·숲·치유 프로그램과 K-POP 콘서트 연계 계획 확인.",
+          "checked_at": "2026-10-07"
+        }
+      ],
+      "verification_note": "날짜가 지났다는 사실만으로 실제 개최·개별 출연을 확인했다고 표시하지 않음. 비공식 글·직캠에 나타난 이름은 채택하지 않았으며 올해 공식 가수 명단 확인 대기. 지역은 요청한 17시도 분류의 전남으로 정규화.",
+      "checked_at": "2026-10-07",
+      "country_code": "KR",
+      "booking_availability": "unverified",
+      "festival_path": "/festivals/jangheung-water/2026/",
+      "date_precision": "day",
+      "announced_month": null,
+      "date_window": "past_dates",
+      "event_evidence_status": "official_schedule",
+      "lineup_coverage": "not_verified"
+    },
+    {
+      "id": "andong-maskdance-2026",
+      "name": "안동국제탈춤페스티벌",
+      "edition_year": 2026,
+      "region": "경북",
+      "city": "안동시",
+      "start_date": "2026-09-24",
+      "end_date": "2026-10-04",
+      "date_label": "2026.9.24~10.4",
+      "venue": "중앙선1942 안동역·탈춤공원 일대",
+      "summary": "탈과 탈춤을 중심으로 전통·현대 공연과 퍼레이드를 구성하는 문화 축제.",
+      "lineup": null,
+      "sources": [
+        {
+          "url": "https://www.kfce.or.kr/home/sub1/festival.asp",
+          "publisher": "한국정신문화재단",
+          "evidence": "가을 축제 항목에서 2026년 9월 24일~10월 4일, 중앙선1942 안동역·탈춤공원 일대와 소개를 확인.",
+          "checked_at": "2026-10-07"
+        }
+      ],
+      "verification_note": "공식 재단에서 연도·기간·장소 확인. 세부 출연단체 및 가수 명단, 개별 실출연 증거는 확인 대기. 날짜 경과를 실출연 증명으로 취급하지 않음.",
+      "checked_at": "2026-10-07",
+      "country_code": "KR",
+      "booking_availability": "unverified",
+      "festival_path": "/festivals/andong-maskdance/2026/",
+      "date_precision": "day",
+      "announced_month": null,
+      "date_window": "past_dates",
+      "event_evidence_status": "official_schedule",
+      "lineup_coverage": "not_verified"
+    },
+    {
+      "id": "andong-amsan-ice-2027",
+      "name": "안동암산얼음축제",
+      "edition_year": 2027,
+      "region": "경북",
+      "city": "안동시",
+      "start_date": null,
+      "end_date": null,
+      "date_label": "2027년 1월 개최 예정; 시작·종료일 미발표",
+      "venue": "안동 암산유원지 일원",
+      "summary": "얼음 조형물과 썰매 등 겨울 체험을 안내하는 가족 중심의 겨울 축제.",
+      "lineup": null,
+      "sources": [
+        {
+          "url": "https://www.kfce.or.kr/home/sub1/festival.asp",
+          "publisher": "한국정신문화재단",
+          "evidence": "겨울 축제 항목에 2027년 1월 개최 예정, 안동암산유원지 일원으로 명시.",
+          "checked_at": "2026-10-07"
+        }
+      ],
+      "verification_note": "공식 발표는 2027년 1월이라는 월 단위와 장소뿐. 일자를 추정하지 않아 start_date/end_date는 null. 출연진 확인 대기.",
+      "checked_at": "2026-10-07",
+      "country_code": "KR",
+      "booking_availability": "unverified",
+      "festival_path": "/festivals/andong-amsan-ice/2027/",
+      "date_precision": "month",
+      "announced_month": "2027-01",
+      "date_window": "month_only_future",
+      "event_evidence_status": "official_plan",
+      "lineup_coverage": "not_verified"
+    },
+    {
+      "id": "jinju-yudeung-2026",
+      "name": "진주남강유등축제",
+      "edition_year": 2026,
+      "region": "경남",
+      "city": "진주시",
+      "start_date": "2026-10-03",
+      "end_date": "2026-10-18",
+      "date_label": "2026.10.3~10.18",
+      "venue": "진주성·진주 남강 일원",
+      "summary": "남강과 진주성을 배경으로 유등 전시와 빛을 활용한 프로그램을 소개하는 야간 축제.",
+      "lineup": null,
+      "sources": [
+        {
+          "url": "https://yudeung.com/community/notice?lang=ko",
+          "publisher": "진주문화예술재단·진주남강유등축제 공식",
+          "evidence": "2026 공지사항과 공통 일정 2026년 10월 3~18일 확인.",
+          "checked_at": "2026-10-07"
+        },
+        {
+          "url": "https://yudeung.com/?lang=ko",
+          "publisher": "진주문화예술재단·진주남강유등축제 공식",
+          "evidence": "2026 일정과 진주성·진주 남강 일원을 확인. 일부 콘텐츠에는 2025 템플릿 표기가 함께 남아 있음.",
+          "checked_at": "2026-10-07"
+        }
+      ],
+      "verification_note": "2026 일정은 공식 공지와 메인에서 교차 확인했으나 개별 프로그램에는 2025 표기가 혼재함. 소개된 BTS는 유등 소재 문맥으로 출연자가 아니므로 명단에 넣지 않음. 올해 가수 명단과 개별 실출연 확인 대기.",
+      "checked_at": "2026-10-07",
+      "country_code": "KR",
+      "booking_availability": "unverified",
+      "festival_path": "/festivals/jinju-yudeung/2026/",
+      "date_precision": "day",
+      "announced_month": null,
+      "date_window": "current_date_window",
+      "event_evidence_status": "official_schedule",
+      "lineup_coverage": "not_verified"
+    },
+    {
+      "id": "tamna-culture-2026",
+      "name": "제65회 탐라문화제",
+      "edition_year": 2026,
+      "region": "제주",
+      "city": "제주시",
+      "start_date": "2026-10-17",
+      "end_date": "2026-10-21",
+      "date_label": "2026.10.17~10.21; 사전행사 10.10 서귀포",
+      "venue": "제주시민복지타운광장 등 제주도 일원",
+      "summary": "제주의 민속과 전통 예술, 현대 문화를 함께 소개하는 문화 축제.",
+      "lineup": null,
+      "sources": [
+        {
+          "url": "https://www.visitjeju.net/kr/festival/view?contentsid=CNTS_300000000014580&menuId=DOM_000001718007000000",
+          "publisher": "제주관광공사 비짓제주",
+          "evidence": "제65회, 2026년 10월 17~21일, 제주시민복지타운광장 등 장소와 10월 10일 서귀포 칠십리야외공연장 사전행사 확인.",
+          "checked_at": "2026-10-07"
+        }
+      ],
+      "verification_note": "공식 관광기관에서 2026 일정과 소개 확인. 특정 가수·단체의 올해 출연 명단은 확인 대기. 사전행사 날짜를 본행사 시작일에 합치지 않음.",
+      "checked_at": "2026-10-07",
+      "country_code": "KR",
+      "booking_availability": "unverified",
+      "festival_path": "/festivals/tamna-culture/2026/",
+      "date_precision": "day",
+      "announced_month": null,
+      "date_window": "upcoming_dates",
+      "event_evidence_status": "official_schedule",
+      "lineup_coverage": "not_verified"
+    }
+  ],
+  "field_notes": {
+    "lineup_null": "해당 연도 공식 명단을 이번 조사에서 확인하지 못함. 출연자가 없다는 뜻이 아님.",
+    "lineup_coverage": "축제 출연진은 대표 표본으로 전체 라인업이 아님.",
+    "artist_id_null": "이름은 행사 출처로 확인했으나 개별 프로필 식별은 아직 연결하지 않음. 동명이인·별칭을 임의 병합하지 않음.",
+    "artists": "국내 콘서트6팀의 프로필 연결용 최소 정보. 축제 전체 아티스트 명단이 아님.",
+    "date_window": "확인일 기준 달력 구간이며 실제 개최·공연 여부는 별도 근거로 판단.",
+    "official_announced": "공식 사전 발표로 출연 예정이 공지됨. 날짜가 지났어도 자동으로 실출연 전환하지 않음.",
+    "performed_confirmed": "공식 사후자료에서 해당 아티스트의 공연 확인.",
+    "booking_availability": "전 행사·아티스트 unverified. 가격·전속·제휴·현재 섭외 가능 여부를 뜻하지 않음.",
+    "date_precision": "month이면 일자를 추정하지 않고 start_date/end_date는 null.",
+    "images": "이미지 사용 허가를 확인하지 않아 수록하지 않음."
+  },
+  "region_coverage": [
+    {
+      "region": "서울",
+      "festival_ids": [
+        "seoul-jazz-2026",
+        "seoul-winter-2026-2027"
+      ],
+      "schedule_status": "at_least_one_official_record",
+      "lineup_status": "partial_verified"
+    },
+    {
+      "region": "부산",
+      "festival_ids": [
+        "busan-rock-2026"
+      ],
+      "schedule_status": "at_least_one_official_record",
+      "lineup_status": "partial_verified"
+    },
+    {
+      "region": "대구",
+      "festival_ids": [
+        "daegu-chimac-2026"
+      ],
+      "schedule_status": "at_least_one_official_record",
+      "lineup_status": "partial_verified"
+    },
+    {
+      "region": "인천",
+      "festival_ids": [
+        "incheon-pentaport-2026"
+      ],
+      "schedule_status": "at_least_one_official_record",
+      "lineup_status": "partial_verified"
+    },
+    {
+      "region": "광주",
+      "festival_ids": [
+        "gwangju-chungjang-2026"
+      ],
+      "schedule_status": "at_least_one_official_record",
+      "lineup_status": "partial_verified"
+    },
+    {
+      "region": "대전",
+      "festival_ids": [
+        "daejeon-bread-2026"
+      ],
+      "schedule_status": "at_least_one_official_record",
+      "lineup_status": "not_verified"
+    },
+    {
+      "region": "울산",
+      "festival_ids": [
+        "ulsan-whale-2026"
+      ],
+      "schedule_status": "at_least_one_official_record",
+      "lineup_status": "partial_verified"
+    },
+    {
+      "region": "세종",
+      "festival_ids": [
+        "sejong-hangeul-2026"
+      ],
+      "schedule_status": "at_least_one_official_record",
+      "lineup_status": "not_verified"
+    },
+    {
+      "region": "경기",
+      "festival_ids": [
+        "jarasum-jazz-2026"
+      ],
+      "schedule_status": "at_least_one_official_record",
+      "lineup_status": "partial_verified"
+    },
+    {
+      "region": "강원",
+      "festival_ids": [
+        "chuncheon-mime-2026"
+      ],
+      "schedule_status": "at_least_one_official_record",
+      "lineup_status": "partial_verified"
+    },
+    {
+      "region": "충북",
+      "festival_ids": [
+        "jecheon-jimff-2026"
+      ],
+      "schedule_status": "at_least_one_official_record",
+      "lineup_status": "partial_verified"
+    },
+    {
+      "region": "충남",
+      "festival_ids": [
+        "cheonan-dance-2026"
+      ],
+      "schedule_status": "at_least_one_official_record",
+      "lineup_status": "not_verified"
+    },
+    {
+      "region": "전북",
+      "festival_ids": [
+        "imsil-cheese-2026"
+      ],
+      "schedule_status": "at_least_one_official_record",
+      "lineup_status": "not_verified"
+    },
+    {
+      "region": "전남",
+      "festival_ids": [
+        "jangheung-water-2026"
+      ],
+      "schedule_status": "at_least_one_official_record",
+      "lineup_status": "not_verified"
+    },
+    {
+      "region": "경북",
+      "festival_ids": [
+        "andong-maskdance-2026",
+        "andong-amsan-ice-2027"
+      ],
+      "schedule_status": "at_least_one_official_record",
+      "lineup_status": "not_verified"
+    },
+    {
+      "region": "경남",
+      "festival_ids": [
+        "jinju-yudeung-2026"
+      ],
+      "schedule_status": "at_least_one_official_record",
+      "lineup_status": "not_verified"
+    },
+    {
+      "region": "제주",
+      "festival_ids": [
+        "tamna-culture-2026"
+      ],
+      "schedule_status": "at_least_one_official_record",
+      "lineup_status": "not_verified"
+    }
+  ]
+}
